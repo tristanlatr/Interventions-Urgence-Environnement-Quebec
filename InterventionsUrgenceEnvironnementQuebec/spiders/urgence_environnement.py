@@ -24,7 +24,7 @@ class Scraper_urgence_environnement(scrapy.Spider):
 
         @url http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/archive.asp
         @returns requests 1
-        @scrape_not_none url evenement data_signalement num_dossier categorie lieu municipalite region matiere millieu etat
+        @scrape_not_none url evenement date_signalement num_dossier categorie lieu municipalite region matiere millieu etat
         """
         periods = self.get_periods_list(response)
         counter = 0
@@ -106,13 +106,13 @@ class Scraper_urgence_environnement(scrapy.Spider):
         Retrurn a item object
 
         @url http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301465265
-        @scrape_not_none url evenement data_signalement num_dossier lieu municipalite region matiere millieu etat
+        @scrape_not_none url evenement date_signalement num_dossier lieu municipalite region matiere millieu etat
         @returns items 1 1  
         """
 
         sections_short_desc = {
             "Événement":                                            "evenement",
-            "Date":                                                 "data_signalement",
+            "Date":                                                 "date_signalement",
             "Numéro de dossier":                                    "num_dossier",
             # "Catégorie":                                            "categorie",
             "Lieu de l'événement":                                  "lieu",
@@ -131,7 +131,7 @@ class Scraper_urgence_environnement(scrapy.Spider):
         infos = {
             'url':          response.url, 
             'evenement':    None, 
-            'data_signalement':         None, 
+            'date_signalement':         None, 
             'num_dossier':  None, 
             'categorie':    None, 
             'lieu':         None, 

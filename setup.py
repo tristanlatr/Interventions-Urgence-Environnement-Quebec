@@ -19,7 +19,7 @@ setup(
     version='1.0',
     packages=find_packages(),
     install_requires=[
-          'pyasn1', 'scrapy-user-agents', 'scrapy', 'bs4', 'XlsxWriter'
+          'pyasn1', 'scrapy-user-agents', 'scrapy', 'lxml', 'XlsxWriter'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

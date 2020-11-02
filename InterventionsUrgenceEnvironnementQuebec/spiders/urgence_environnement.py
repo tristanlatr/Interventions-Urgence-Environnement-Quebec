@@ -1,8 +1,6 @@
 from os import remove
 from urllib.parse import urljoin
 import scrapy
-import abc
-import time
 from lxml import html
 from ..utils import replace
 from ..db import JsonDataBase

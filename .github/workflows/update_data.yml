@@ -1,0 +1,37 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: test
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 0 * * *'
+
+jobs:
+  test:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        python-version: [3.8]
+        os: [ubuntu-latest]
+    
+    steps:
+    - uses: actions/checkout@v2 
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Install
+      run: python3 setup.py install
+
+    - name: Update the data
+      run: python3 -m InterventionsUrgenceEnvironnementQuebec --db ./Data/InterventionsUrgenceEnvironnementQuebec.json --parse_everything
+
+    - name: Push the data
+      run: |
+          git config --global user.name 'Github Actions'
+          git config --global user.email 'github-actions@github.com'
+          git commit -am "Update data $(date)"
+          git push

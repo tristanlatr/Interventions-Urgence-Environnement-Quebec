@@ -67438,5 +67438,20 @@
         "autre_organismes_public_implique": "Service s\u00e9curit\u00e9 incendie RigaudMinist\u00e8re des Transports",
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301492788",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "1\u00a0novembre\u00a02020",
+        "num_dossier": "301492788",
+        "categorie": "1",
+        "lieu": "6, rue Lanct\u00f4t",
+        "municipalite": "Laval",
+        "region": "Laval",
+        "matiere": "Huile \u00e0 Chauffage (Diesel)",
+        "millieu": "SolEau - Rivi\u00e8re-des-Milles-\u00celes",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de la Ville de LavalService de l'environnement de la Ville de Laval",
+        "etat": "En cours",
+        "autres_infos": null
     }
 ]

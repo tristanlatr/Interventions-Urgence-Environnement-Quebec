@@ -13,8 +13,8 @@ README = (HERE / "README.md").read_text(encoding='utf-8')
 
 setup(
     name='InterventionsUrgenceEnvironnementQuebec',
-    description="InterventionsUrgenceEnvironnementQuebec fournis à toute personne intéressée un fichier Excel (et CSV) contenant toute les informations du registre des interventions d'Urgence-Environnement Québec. Le fichier est actualisé tous les jours",
-    url='https://github.com/tristanlatr/InterventionsUrgenceEnvironnementQuebec',
+    description="InterventionsUrgenceEnvironnementQuebec generates an Excel file (also JSON) containing all information from the Registre des interventions d'Urgence-Environnement Québec.",
+    url='https://github.com/tristanlatr/Interventions-Urgence-Environnement-Quebec',
     maintainer='tristanlatr',
     version='1.0',
     packages=find_packages(),

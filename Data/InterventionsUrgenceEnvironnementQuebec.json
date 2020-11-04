@@ -67453,5 +67453,20 @@
         "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de la Ville de LavalService de l'environnement de la Ville de Laval",
         "etat": "En cours",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301492981",
+        "evenement": "Accident routier",
+        "date_signalement": "2\u00a0novembre\u00a02020",
+        "num_dossier": "301492981",
+        "categorie": "1",
+        "lieu": "Autoroute 30 Est, kilom\u00e8tre 74",
+        "municipalite": "Saint-Hubert",
+        "region": "Mont\u00e9r\u00e9gie",
+        "matiere": "Diesel - 100 litres",
+        "millieu": "Infrastructure routi\u00e8re",
+        "autre_organismes_public_implique": "Service de S\u00e9curit\u00e9 Incendie de LongueuilMinist\u00e8re des Transports du Qu\u00e9becS\u00fbret\u00e9 du Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

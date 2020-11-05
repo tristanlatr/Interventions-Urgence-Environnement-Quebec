@@ -67468,5 +67468,20 @@
         "autre_organismes_public_implique": "Service de S\u00e9curit\u00e9 Incendie de LongueuilMinist\u00e8re des Transports du Qu\u00e9becS\u00fbret\u00e9 du Qu\u00e9bec",
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301493147",
+        "evenement": "Bris d'\u00e9quipement",
+        "date_signalement": "2\u00a0novembre\u00a02020",
+        "num_dossier": "301493147",
+        "categorie": "1",
+        "lieu": "1312, rue Saint-Georges",
+        "municipalite": "Saint-Bernard",
+        "region": "Chaudi\u00e8re-Appalaches",
+        "matiere": "Huile de soya",
+        "millieu": "Eau - rivi\u00e8re des \u00celes-Brul\u00e9es",
+        "autre_organismes_public_implique": null,
+        "etat": "En cours",
+        "autres_infos": null
     }
 ]

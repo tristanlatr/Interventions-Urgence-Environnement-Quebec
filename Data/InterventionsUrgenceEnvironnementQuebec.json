@@ -67481,6 +67481,21 @@
         "matiere": "Huile de soya",
         "millieu": "Eau - rivi\u00e8re des \u00celes-Brul\u00e9es",
         "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301493656",
+        "evenement": "D\u00e9versement de mati\u00e8res dangereuses",
+        "date_signalement": "6\u00a0novembre\u00a02020",
+        "num_dossier": "301493656",
+        "categorie": "1",
+        "lieu": "100, route Maritime",
+        "municipalite": "Baie-Comeau",
+        "region": "C\u00f4te-Nord",
+        "matiere": "Alumine fluor\u00e9e - 30 \u00e0 40 tonnes",
+        "millieu": "Sol",
+        "autre_organismes_public_implique": null,
         "etat": "En cours",
         "autres_infos": null
     }

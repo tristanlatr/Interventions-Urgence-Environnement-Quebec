@@ -67496,7 +67496,22 @@
         "matiere": "Alumine fluor\u00e9e - 30 \u00e0 40 tonnes",
         "millieu": "Sol",
         "autre_organismes_public_implique": null,
-        "etat": "En cours",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301493935",
+        "evenement": "Accident d'avion",
+        "date_signalement": "7\u00a0novembre\u00a02020",
+        "num_dossier": "301493935",
+        "categorie": "1",
+        "lieu": "521 Route Gravel",
+        "municipalite": "Neuville",
+        "region": "Capitale-Nationale",
+        "matiere": "Carburant d'avion - 60 litresHuile moteur - Ind\u00e9termin\u00e9e",
+        "millieu": "Sol - Foss\u00e9 de drainageEaux - Foss\u00e9 de drainage",
+        "autre_organismes_public_implique": "S\u00fbret\u00e9 du Qu\u00e9becBureau de la s\u00e9curit\u00e9 des Transports du Canada",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
     }
 ]

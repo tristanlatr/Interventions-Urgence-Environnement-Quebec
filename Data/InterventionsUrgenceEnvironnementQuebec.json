@@ -67603,5 +67603,20 @@
         "autre_organismes_public_implique": "Contr\u00f4leurs Routiers, MTQ",
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301494881",
+        "evenement": "Signalement d'une coloration sur un cours d'eau",
+        "date_signalement": "12\u00a0novembre\u00a02020",
+        "num_dossier": "301494881",
+        "categorie": "1",
+        "lieu": "Sentiers Trans-Terrebonne",
+        "municipalite": "Terrebonne",
+        "region": "Lanaudi\u00e8re",
+        "matiere": "S/O",
+        "millieu": "Eau - Ruisseau de la Pini\u00e8re",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Le fond du cours d'eau pr\u00e9sente une coloration orang\u00e9e (ocre ferreux) et une surface arc-en-ciel provoqu\u00e9e par la d\u00e9composition organique."
     }
 ]

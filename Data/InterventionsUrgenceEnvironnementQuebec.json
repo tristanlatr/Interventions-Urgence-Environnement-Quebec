@@ -67586,7 +67586,7 @@
         "matiere": "Mati\u00e8re inconnue - Ind\u00e9termin\u00e9e",
         "millieu": "Sol - Asphalte et foss\u00e9",
         "autre_organismes_public_implique": "Services incendies de MirabelSuret\u00e9 du Qu\u00e9becMinist\u00e8re des Transports du Qu\u00e9bec",
-        "etat": "En cours",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
     },
     {
@@ -67618,5 +67618,35 @@
         "autre_organismes_public_implique": null,
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": "Le fond du cours d'eau pr\u00e9sente une coloration orang\u00e9e (ocre ferreux) et une surface arc-en-ciel provoqu\u00e9e par la d\u00e9composition organique."
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301495292",
+        "evenement": "D\u00e9versement de d\u00e9jections animales",
+        "date_signalement": "14\u00a0novembre\u00a02020",
+        "num_dossier": "301495292",
+        "categorie": "1",
+        "lieu": "Pr\u00e8s du 1908, rue Johnson",
+        "municipalite": "Thetford Mines",
+        "region": "Chaudi\u00e8re-Appalaches",
+        "matiere": "D\u00e9jections animales - Ind\u00e9termin\u00e9e",
+        "millieu": "Sol",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=3xxxxxxxxxxxx",
+        "evenement": "Pr\u00e9sence de mousse sur un cours d'eau",
+        "date_signalement": "15\u00a0novembre\u00a02020",
+        "num_dossier": "3xxxxxxxxxxxx",
+        "categorie": "1",
+        "lieu": "Secteur du 961, boulevard Champlain",
+        "municipalite": "Qu\u00e9bec",
+        "region": "Capitale-Nationale",
+        "matiere": "Mousse de soya - Ind\u00e9termin\u00e9",
+        "millieu": "Eau - Fleuve Saint-Laurent",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

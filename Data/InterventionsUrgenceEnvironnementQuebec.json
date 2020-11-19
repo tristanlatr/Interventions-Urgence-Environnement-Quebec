@@ -67648,5 +67648,20 @@
         "autre_organismes_public_implique": null,
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301495655",
+        "evenement": "\u00c9mission de gaz",
+        "date_signalement": "18\u00a0novembre\u00a02020",
+        "num_dossier": "301495655",
+        "categorie": "1",
+        "lieu": "1081, rue Parent",
+        "municipalite": "Saint-Bruno-de-Montarville",
+        "region": "Mont\u00e9r\u00e9gie",
+        "matiere": "Ammoniac - Ind\u00e9termin\u00e9e",
+        "millieu": "Air - Atmosph\u00e8re",
+        "autre_organismes_public_implique": "Service de S\u00e9curit\u00e9 Incendie de LongueuilDirection de la Sant\u00e9 Publique",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

@@ -67663,5 +67663,20 @@
         "autre_organismes_public_implique": "Service de S\u00e9curit\u00e9 Incendie de LongueuilDirection de la Sant\u00e9 Publique",
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301496090",
+        "evenement": "Pr\u00e9sence de mousse sur un cours d'eau",
+        "date_signalement": "15\u00a0novembre\u00a02020",
+        "num_dossier": "301496090",
+        "categorie": "1",
+        "lieu": "Secteur du 961, boulevard Champlain",
+        "municipalite": "Qu\u00e9bec",
+        "region": "Capitale-Nationale",
+        "matiere": "Mousse de soya - Ind\u00e9termin\u00e9",
+        "millieu": "Eau - Fleuve Saint-Laurent",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

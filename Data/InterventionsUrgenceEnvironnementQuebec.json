@@ -67708,5 +67708,35 @@
         "autre_organismes_public_implique": "Service de l'environnement de la Ville de Montr\u00e9al",
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301496589",
+        "evenement": "Accident routier",
+        "date_signalement": "23\u00a0novembre\u00a02020",
+        "num_dossier": "301496589",
+        "categorie": "1",
+        "lieu": "Au kilom\u00e8tre 348 de l'autoroute 20",
+        "municipalite": "Saint-Michel-de-Bellechasse",
+        "region": "Chaudi\u00e8re-Appalaches",
+        "matiere": "Pyrophosphate de sodium (grade alimentaire) - Aucun d\u00e9versement",
+        "millieu": null,
+        "autre_organismes_public_implique": "S\u00fbret\u00e9 du Qu\u00e9bec (SQ)Service incendie de Saint-Michel-de-Bellechasse, Minist\u00e8re des transports du Qu\u00e9bec (MTQ)",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301496621",
+        "evenement": "Incendie d'un v\u00e9hicule",
+        "date_signalement": "22\u00a0novembre\u00a02020",
+        "num_dossier": "301496621",
+        "categorie": "1",
+        "lieu": "460, route 116",
+        "municipalite": "Cleveland",
+        "region": "Estrie",
+        "matiere": "Diesel - 140 Litres",
+        "millieu": "Air et sol",
+        "autre_organismes_public_implique": "S\u00fbret\u00e9 du Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

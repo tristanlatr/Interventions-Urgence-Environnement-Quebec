@@ -67738,5 +67738,50 @@
         "autre_organismes_public_implique": "S\u00fbret\u00e9 du Qu\u00e9bec",
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301496318",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "20\u00a0novembre\u00a02020",
+        "num_dossier": "301496318",
+        "categorie": "1",
+        "lieu": "132, rue de la Commune",
+        "municipalite": "Trois-Rivi\u00e8res",
+        "region": "Mauricie",
+        "matiere": "Diesel - 2 000 litres",
+        "millieu": "Infrastructure souterraine - \u00e9gout pluvialEau de surface - fleuve Saint-Laurent",
+        "autre_organismes_public_implique": "Minist\u00e8re de la s\u00e9curit\u00e9 publique (CEGRIM)Minist\u00e8re des for\u00eats de la faune et des parcsService de s\u00e9curit\u00e9 incendie de Trois-Rivi\u00e8resEnvironnement CanadaGarde c\u00f4ti\u00e8re Canadienne",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301496876",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "23\u00a0novembre\u00a02020",
+        "num_dossier": "301496876",
+        "categorie": "1",
+        "lieu": "Intersection boulevard Jean XXIII et boulevard des R\u00e9collets",
+        "municipalite": "Trois-Rivi\u00e8res",
+        "region": "Mauricie",
+        "matiere": "Diesel - Ind\u00e9termin\u00e9e",
+        "millieu": "Infrastructure souterraine - \u00e9gout pluvial",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de Trois-Rivi\u00e8resVille de Trois-Rivi\u00e8res",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301496719",
+        "evenement": "Accident routier",
+        "date_signalement": "24\u00a0novembre\u00a02020",
+        "num_dossier": "301496719",
+        "categorie": "1",
+        "lieu": "Route 132 - secteur de l'entr\u00e9e Est du Parc du Bic (48\u00b021'09.9\"N 68\u00b045'26.1\"O)",
+        "municipalite": "Rimouski (secteur Le Bic)",
+        "region": "Bas-Saint-Laurent",
+        "matiere": "Diesel et huile \u00e0 moteur - 50 litresCopeaux de bois - 110 m\u00e8tres cube",
+        "millieu": "Sol et neige",
+        "autre_organismes_public_implique": "Minist\u00e8re des transports du Qu\u00e9bec S\u00fbret\u00e9 du Qu\u00e9becS\u00c9PAQ (Parc national du Bic)",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

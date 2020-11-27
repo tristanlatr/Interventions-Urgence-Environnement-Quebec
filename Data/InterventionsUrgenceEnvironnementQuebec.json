@@ -67783,5 +67783,20 @@
         "autre_organismes_public_implique": "Minist\u00e8re des transports du Qu\u00e9bec S\u00fbret\u00e9 du Qu\u00e9becS\u00c9PAQ (Parc national du Bic)",
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301497156",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "25\u00a0novembre\u00a02020",
+        "num_dossier": "301497156",
+        "categorie": "1",
+        "lieu": "1576. 10e rang de Simpson",
+        "municipalite": "Notre-Dame-du-Bon-Conseil",
+        "region": "Centre-du-Qu\u00e9bec",
+        "matiere": "Solvant \u00e0 peinture usag\u00e9 - 500 litres",
+        "millieu": "Infrastructure souterraine - caniveauEau de surface - foss\u00e9",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

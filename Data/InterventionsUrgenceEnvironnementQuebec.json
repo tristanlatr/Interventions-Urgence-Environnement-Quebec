@@ -67858,5 +67858,35 @@
         "autre_organismes_public_implique": null,
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301498123",
+        "evenement": "D\u00e9versement de d\u00e9jections animales",
+        "date_signalement": "1\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301498123",
+        "categorie": "1",
+        "lieu": "2660, chemin Mitchell",
+        "municipalite": "Cookshire-Eaton",
+        "region": "Estrie",
+        "matiere": "Lisier de porcs - 20 000 litres",
+        "millieu": "Eau - Ruisseau Proulx",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301498095",
+        "evenement": "\u00c9coulement d'eaux de ruissellement charg\u00e9es de mati\u00e8res en suspension",
+        "date_signalement": "2\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301498095",
+        "categorie": "1",
+        "lieu": "1505, chemin de la Pointe-Noire",
+        "municipalite": "Sept-Iles",
+        "region": "C\u00f4te-Nord",
+        "matiere": "Eau charg\u00e9e en mati\u00e8res en suspension - Ind\u00e9termin\u00e9e",
+        "millieu": "Eau - Baie des Sept \u00celes",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

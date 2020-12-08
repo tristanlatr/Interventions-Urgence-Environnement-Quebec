@@ -67451,7 +67451,7 @@
         "matiere": "Huile \u00e0 Chauffage (Diesel)",
         "millieu": "SolEau - Rivi\u00e8re-des-Milles-\u00celes",
         "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de la Ville de LavalService de l'environnement de la Ville de Laval",
-        "etat": "En cours",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
     },
     {
@@ -67885,6 +67885,21 @@
         "region": "C\u00f4te-Nord",
         "matiere": "Eau charg\u00e9e en mati\u00e8res en suspension - Ind\u00e9termin\u00e9e",
         "millieu": "Eau - Baie des Sept \u00celes",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301498823",
+        "evenement": "D\u00e9versement d'huile biod\u00e9gradable",
+        "date_signalement": "6\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301498823",
+        "categorie": "1",
+        "lieu": "525, rue Godin",
+        "municipalite": "Trois-Rivi\u00e8res",
+        "region": "Mauricie",
+        "matiere": "Huile v\u00e9g\u00e9tale - 2 000 Litres",
+        "millieu": "Sol - GravierInfrastructure de surface - Voie ferr\u00e9e",
         "autre_organismes_public_implique": null,
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null

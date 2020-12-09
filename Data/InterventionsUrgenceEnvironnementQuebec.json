@@ -67903,5 +67903,20 @@
         "autre_organismes_public_implique": null,
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301499092",
+        "evenement": "Accident routier",
+        "date_signalement": "7\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301499092",
+        "categorie": "1",
+        "lieu": "Intersection du chemin MacLaren et de l'autoroute 5",
+        "municipalite": "Wakefield, Municipalit\u00e9 de La P\u00eache",
+        "region": "Outaouais",
+        "matiere": "Essence - 13 000 LitresDiesel - 3 000 Litres",
+        "millieu": "Sol",
+        "autre_organismes_public_implique": "Service Incendie de la municipalit\u00e9 de La P\u00eacheMTQService de police de la MRC des Collines",
+        "etat": "En cours",
+        "autres_infos": null
     }
 ]

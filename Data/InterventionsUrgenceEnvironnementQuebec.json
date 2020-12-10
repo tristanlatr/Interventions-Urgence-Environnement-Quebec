@@ -67918,5 +67918,20 @@
         "autre_organismes_public_implique": "Service Incendie de la municipalit\u00e9 de La P\u00eacheMTQService de police de la MRC des Collines",
         "etat": "En cours",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301499283",
+        "evenement": "Incendie impliquant des mati\u00e8res dangereuses",
+        "date_signalement": "7\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301499283",
+        "categorie": "1",
+        "lieu": "845, rue Jean-Baptiste Reid",
+        "municipalite": "Mont-Laurier",
+        "region": "Laurentides",
+        "matiere": "Huile min\u00e9rale-1000 litres",
+        "millieu": "SolEau - Rivi\u00e8re du Li\u00e8vre",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de Mont-LaurierVille de Mont-Laurier",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

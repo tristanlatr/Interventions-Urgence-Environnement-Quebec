@@ -67933,5 +67933,35 @@
         "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de Mont-LaurierVille de Mont-Laurier",
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301499515",
+        "evenement": "Incendie impliquant des mati\u00e8res dangereuses",
+        "date_signalement": "9\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301499515",
+        "categorie": "1",
+        "lieu": "951 route Leclerc",
+        "municipalite": "Saint-Th\u00e9odore-d'Acton",
+        "region": "Mont\u00e9r\u00e9gie",
+        "matiere": "Diesel - Ind\u00e9termin\u00e9Huiles hydraulique - Ind\u00e9termin\u00e9Huiles moteur - Ind\u00e9termin\u00e9",
+        "millieu": "Sol",
+        "autre_organismes_public_implique": "Service des incendies et pr\u00e9vention de la ville d'Acton Vale Hydro Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301499746",
+        "evenement": "Accident routier",
+        "date_signalement": "9\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301499746",
+        "categorie": "1",
+        "lieu": "Route 112 hauteur de la rue Talbot",
+        "municipalite": "Ascot Corner",
+        "region": "Estrie",
+        "matiere": "Diesel - 200 Litres Huile \u00e0 moteur - 40 Litres",
+        "millieu": "Eau - Foss\u00e9Sol - Chauss\u00e9",
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null
     }
 ]

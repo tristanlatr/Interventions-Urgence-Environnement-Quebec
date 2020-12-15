@@ -67916,7 +67916,7 @@
         "matiere": "Essence - 13 000 LitresDiesel - 3 000 Litres",
         "millieu": "Sol",
         "autre_organismes_public_implique": "Service Incendie de la municipalit\u00e9 de La P\u00eacheMTQService de police de la MRC des Collines",
-        "etat": "En cours",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
     },
     {
@@ -67963,5 +67963,35 @@
         "autre_organismes_public_implique": null,
         "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
         "autres_infos": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301499828",
+        "evenement": "Bris d'\u00e9quipement",
+        "date_signalement": "10\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301499828",
+        "categorie": "1",
+        "lieu": "3500, Chemin des Sables",
+        "municipalite": "Saguenay",
+        "region": "Saguenay\u2014Lac-Saint-Jean",
+        "matiere": "Eau brute pr\u00e9-trait\u00e9e - 75 000 litres",
+        "millieu": null,
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Aucun milieu touch\u00e9, l'entreprise est muni d'un syst\u00e8me de r\u00e9cup\u00e9ration et de bassin d'urgence donc le produit sera redirig\u00e9 vers le syst\u00e8me de traitement."
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301499777",
+        "evenement": "\u00c9pandage de d\u00e9jections animales",
+        "date_signalement": "10\u00a0d\u00e9cembre\u00a02020",
+        "num_dossier": "301499777",
+        "categorie": "1",
+        "lieu": "2279, chemin Douillard",
+        "municipalite": "Magog",
+        "region": "Estrie",
+        "matiere": null,
+        "millieu": null,
+        "autre_organismes_public_implique": null,
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Plainte anonyme non-fond\u00e9e. Aucun \u00e9pandage sur la neige constat\u00e9"
     }
 ]

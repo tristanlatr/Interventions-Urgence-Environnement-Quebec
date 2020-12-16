@@ -6,12 +6,14 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from geopy.geocoders import Nominatim, GeoNames, Bing, Photon
+from geopy.geocoders import Nominatim, Bing, Photon
 import time
 import os
+import logging
+
+loger = logging.getLogger(__name__)
 
 class AddKeywordMatchesPipeline(object):
-    
     
     matches=list(set([   
 
@@ -46,21 +48,29 @@ class AddKeywordMatchesPipeline(object):
 
 class AddGeocodePipeline(object):
     """
-    Fill the 'latitude' and 'longitude' of all `Urgence` objects with no geoloc yet. 
-
-    This code respects the Nominatim policy https://operations.osmfoundation.org/policies/nominatim/
+    Fill the 'latitude' and 'longitude' of all `Urgence` objects. 
     """
 
-    def _geocode(self, lieu, municipalite, coder):
+    def _geocode(self, lieu, municipalite, region, coder):
         time.sleep(1)
-        resp = coder.geocode("{}, {}, Québec, Canada".format(lieu, municipalite),
-            exactly_one=True
-            )
+        address_str = "{}, {} {}, Québec, Canada".format(lieu, municipalite, region)
+        loger.info("Geocoding {} with coder {}".format(address_str, coder.__class__.__name__))
+        resp = coder.geocode(address_str,
+            exactly_one=True)
 
         if resp:
-            return (resp.latitude, resp.longitude)
+            return (resp.latitude, resp.longitude, resp.raw)
         else:
-            return None
+            loger.warning("Cannot find exact match for address {}".format(address_str))
+            time.sleep(1)
+            resp = coder.geocode(address_str,
+            exactly_one=False)
+            if resp:
+                return ('No exact match', 'No exact match', resp.raw)
+            else:
+                loger.error("Geocoder {} cannot find any places for address {}".format(
+                    coder.__class__.__name__, address_str))
+                return None
 
 
     def geocode(self, lieu, municipalite, region):
@@ -73,26 +83,28 @@ class AddGeocodePipeline(object):
         bing_key = os.environ.get('BING_MAPS_KEYS', None)
         if bing_key:
             coders.append( Bing(api_key=bing_key) )
-       
-        coders.append( Photon(user_agent="Interventions-Urgence-Environnement-Quebec") )
+
+        # This code respects the Nominatim policy https://operations.osmfoundation.org/policies/nominatim/
         coders.append( Nominatim(user_agent="Interventions-Urgence-Environnement-Quebec", ) )
+        # Backup coders, not used actually except if no more API calls 
+        coders.append( Photon(user_agent="Interventions-Urgence-Environnement-Quebec", ) )
 
         result = None
 
         for i, c in enumerate(coders):
             
-            result = self._geocode(lieu, municipalite, coder=c)
+            result = self._geocode(lieu, municipalite, region, coder=c)
             if result:
-                return(result)
-
+                return result
 
     def process_item(self, item, spider):
-        # Use geopy https://geopy.readthedocs.io/en/latest/#nominatim
+        # Use geopy https://geopy.readthedocs.io/en/latest/
         
         resp = self.geocode(item['lieu'], item['municipalite'], item['region'])
         if resp:
             item['latitude'] = resp[0]
             item['longitude'] = resp[1]
+            item['geocoder_infos'] = resp[2]
         else:
             item['latitude'] = 'Error'
             item['longitude'] = 'Error'

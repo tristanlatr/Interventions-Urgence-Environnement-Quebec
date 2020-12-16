@@ -25,9 +25,10 @@ class Urgence(scrapy.Item):
     autres_infos = scrapy.Field() 
 
     # Fields filled by post process
-    latitude = scrapy.Field()     # Will be filled later
-    longitude = scrapy.Field()  # Will be filled later
-    
+    latitude = scrapy.Field()    
+    longitude = scrapy.Field() 
+    geocoder_infos = scrapy.Field()
+
     # Fields filled by pipeline
     keywords_matched = scrapy.Field()
 

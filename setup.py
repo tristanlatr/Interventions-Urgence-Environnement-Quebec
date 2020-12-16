@@ -16,10 +16,10 @@ setup(
     description="InterventionsUrgenceEnvironnementQuebec generates an Excel file (also JSON) containing all information from the Registre des interventions d'Urgence-Environnement Québec.",
     url='https://github.com/tristanlatr/Interventions-Urgence-Environnement-Quebec',
     maintainer='tristanlatr',
-    version='1.0',
+    version='2.0.dev',
     packages=find_packages(),
     install_requires=[
-          'pyasn1', 'scrapy-user-agents', 'scrapy', 'lxml', 'XlsxWriter'
+          'pyasn1', 'scrapy-user-agents', 'scrapy', 'lxml', 'XlsxWriter', 'simplekml', 'geopy'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

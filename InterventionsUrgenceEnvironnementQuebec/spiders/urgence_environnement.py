@@ -2,8 +2,10 @@ from os import remove
 from urllib.parse import urljoin
 import scrapy
 from lxml import html
+
 from ..utils import replace
 from ..db import JsonDataBase
+from ..items import Urgence
 
 class Scraper_urgence_environnement(scrapy.Spider):
 
@@ -111,8 +113,7 @@ class Scraper_urgence_environnement(scrapy.Spider):
         sections_short_desc = {
             "Événement":                                            "evenement",
             "Date":                                                 "date_signalement",
-            "Numéro de dossier":                                    "num_dossier",
-            # "Catégorie":                                            "categorie",
+            "Numéro de dossier":                                    "num_dossier", # + "categorie"
             "Lieu de l'événement":                                  "lieu",
             "Municipalité ou territoire":                           "municipalite",
             "Région administrative":                                "region",
@@ -127,19 +128,7 @@ class Scraper_urgence_environnement(scrapy.Spider):
         """
 
         infos = {
-            'url':          response.url, 
-            'evenement':    None, 
-            'date_signalement':         None, 
-            'num_dossier':  None, 
-            'categorie':    None, 
-            'lieu':         None, 
-            'municipalite': None, 
-            'region':       None, 
-            'matiere':      None, 
-            'millieu':      None, 
-            'autre_organismes_public_implique':         None, 
-            'etat':         None, 
-            'autres_infos': None
+            'url':          response.url
         }
 
         page = html.fromstring(response.text)
@@ -175,4 +164,4 @@ class Scraper_urgence_environnement(scrapy.Spider):
             if v:
                 infos[k] = replace( v, {'\t':'', '\n':'', '\r':''} ).strip()
 
-        return infos
+        return Urgence(infos)

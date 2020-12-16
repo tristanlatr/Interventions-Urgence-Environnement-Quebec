@@ -82,12 +82,7 @@ class AddGeocodePipeline(object):
         
         bing_key = os.environ.get('BING_MAPS_KEYS', None)
         if bing_key:
-            coders.append( Bing(api_key=bing_key) )
-
-        # This code respects the Nominatim policy https://operations.osmfoundation.org/policies/nominatim/
-        coders.append( Nominatim(user_agent="Interventions-Urgence-Environnement-Quebec", ) )
-        # Backup coders, not used actually except if no more API calls 
-        coders.append( Photon(user_agent="Interventions-Urgence-Environnement-Quebec", ) )
+            coders.append( Bing(api_key=bing_key, timeout=10) )
 
         result = None
 

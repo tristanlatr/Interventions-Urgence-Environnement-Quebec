@@ -6,6 +6,9 @@ import json
 import tempfile
 import os
 import multiprocessing
+import time
+import logging
+loger = logging.getLogger(__name__)
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
 from scrapy import spiderloader
@@ -44,7 +47,7 @@ def _scrape(spider_name_or_cls, scraper_init_kwargs, log_level, scraped_data_res
     scraped_data_result=[] if scraped_data_result==None else scraped_data_result
     scrapy_process_json_data=None
 
-    with tempfile.NamedTemporaryFile() as scrapy_process_temp_file:
+    with tempfile.NamedTemporaryFile('w', encoding='utf-8') as scrapy_process_temp_file:
         settings=get_alt_job_settings()
         settings.set("FEEDS", {
                 '{}'.format(scrapy_process_temp_file.name): {
@@ -58,6 +61,8 @@ def _scrape(spider_name_or_cls, scraper_init_kwargs, log_level, scraped_data_res
         process.crawl(spider_name_or_cls, **scraper_init_kwargs)
         process.start()
         
+        time.sleep(1)
+
         with open(scrapy_process_temp_file.name, 'r', encoding='utf-8') as crawler_process_json_fp:
             try:
                 scrapy_process_json_data=json.load(crawler_process_json_fp)
@@ -65,8 +70,9 @@ def _scrape(spider_name_or_cls, scraper_init_kwargs, log_level, scraped_data_res
                 scraped_data_result.extend(scrapy_process_json_data)
                 return(scrapy_process_json_data)
 
-            except ValueError as err:
+            except ValueError:
                 if str(crawler_process_json_fp.read()).strip()=="":
-                    raise ValueError('Looks like there has been an issue during the scrape, no data is found in scrapy feed.\nReport this issue on github!') from err
+                    loger.warning('No data is found in scrapy feed.')
+                    return []
                 else:
                     raise

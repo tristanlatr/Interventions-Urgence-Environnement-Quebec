@@ -43,6 +43,8 @@ class JsonDataBase():
     def update_and_write_items(self, items=None):
         '''Update the databse with newly found items and/or older items updated.  
         Keep same order add append new item at the bottom.  '''
+        new_data = False
+
         if not items: return
         if self.filepath=='null': return
         
@@ -53,9 +55,11 @@ class JsonDataBase():
                 if r[UNIQUE]==item[UNIQUE]:
                     self.data[self.data.index(r)].update(item)
                     new=False
+                    new_data=True
                     break
             if new: 
                 self.data.append(item)
+                new_data=True
         
         # Write method thread safe
         while write_lock.locked():
@@ -64,6 +68,8 @@ class JsonDataBase():
         with open(self.filepath,'w', encoding='utf-8') as data_fd:
             json.dump(self.data, data_fd, indent=4)
             write_lock.release()
+        
+        return new_data
 
     def search(self, term):
         '''

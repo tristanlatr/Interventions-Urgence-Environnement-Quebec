@@ -27,6 +27,8 @@ jobs:
       run: python3 setup.py install
 
     - name: Update the data
+      env: 
+        BING_MAPS_KEYS:  ${{ secrets.BING_MAPS_KEYS }}
       run: python3 -m InterventionsUrgenceEnvironnementQuebec --db ./Data/InterventionsUrgenceEnvironnementQuebec.json --parse_everything
 
     - name: Push the data

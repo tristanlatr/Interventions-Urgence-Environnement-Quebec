@@ -1,8 +1,18 @@
 import xlsxwriter
 import tempfile
 import re
+import csv
 
-def get_xlsx_file(items, headers=None):
+def get_csv_file(items):
+    with tempfile.NamedTemporaryFile('w', delete=False, newline='', encoding='utf-8') as csv_file:
+        headers = { key:key.title() for key in items[0].keys() }
+        dict_writer = csv.DictWriter(csv_file, headers)
+        dict_writer.writeheader()
+        dict_writer.writerows(items)
+
+        return csv_file
+
+def get_xlsx_file(items):
     """
     Argments:  
         - items: list of dict  
@@ -12,8 +22,7 @@ def get_xlsx_file(items, headers=None):
     """
     with tempfile.NamedTemporaryFile(delete=False) as excel_file:
         with xlsxwriter.Workbook(excel_file.name) as workbook:
-            if not headers:
-                headers={ key:key.title() for key in items[0].keys() }
+            headers={ key:key.title() for key in items[0].keys() }
             worksheet = workbook.add_worksheet()
             worksheet.write_row(row=0, col=0, data=headers.values())
             header_keys = list(headers.keys())

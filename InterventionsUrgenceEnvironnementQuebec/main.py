@@ -3,7 +3,7 @@ import shutil
 import os
 from .db import DEFAULT_DB_FILE, JsonDataBase
 from .scrape import scrape
-from .utils import get_xlsx_file
+from .utils import get_xlsx_file, get_csv_file
 
 def get_parser():
     parser = argparse.ArgumentParser(
@@ -44,9 +44,15 @@ def main():
 
     if new_data:
         excel = get_xlsx_file(db.data)
-
         shutil.copyfile(excel.name, args.db + '.xlsx')
         os.remove(excel.name)
+        
+        n = 1500 
+        lists_1500_items_max = [db.data[i * n:(i + 1) * n] for i in range((len(db.data) + n - 1) // n )]  
+        for i,l in enumerate(lists_1500_items_max):
+            csv = get_csv_file(l)
+            shutil.copyfile(csv.name, '{}.part{}.csv'.format(args.db, i))
+            os.remove(csv.name)
 
 if __name__ == "__main__":
     main()

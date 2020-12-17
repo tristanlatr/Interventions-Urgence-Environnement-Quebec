@@ -7,6 +7,7 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 from geopy.geocoders import Nominatim, Bing, Photon
+from ordered_set import OrderedSet
 import time
 import os
 import logging
@@ -15,14 +16,14 @@ loger = logging.getLogger(__name__)
 
 class AddKeywordMatchesPipeline(object):
     
-    matches=list(set([   
+    matches=list(OrderedSet([   
 
         # List extracted with keyword analysis from InterventionsUrgenceEnvironnementQuebec.json: 
         
         "déversement", "produits pétroliers", "coloration", "hydrocarbures", "résidus", "matières dangereuses", 
         "odeur", "huile", "eaux usées", "gaz", "fuite", "moteur", "diesel", "pneus", "eaux de procédé", "matières résiduelles",
         "ciment", "distillat", "milieu humide", "hydrique", "eau", "rivière", "sol", "air", "infrastructure", "souterraine", "surface",
-        "ministère des transports", "sûreté du québec", "suivi", "travaux", "réservoir"
+        "ministère des transports", "sûreté du québec", "suivi", "travaux", "réservoir",
 
         # English and French keywords for general green job findings 
 
@@ -30,13 +31,13 @@ class AddKeywordMatchesPipeline(object):
         "nature", "ecotourism", "sustainable", "renewable", "energy", "education", "food",
         "agriculture", "organic", "farming", "forest", "green", "social",  "business", "entrepreneurship", 
         "leadership", "media", "journalism", "food security", "health", "ocean", "bike", "recycle", "waste",
-        "intership"
+        "intership",
         
         "climat", "animal", "faune", "biomasse", "pollution", "conservation", "biodiversité", 
         "nature", "écotourisme", "durable", "renouvelable", "énergie", "éducation", "alimentation",
         "agriculture", "biologique", "agriculture", "forêt", "vert", "social", "entreprise", "esprit d'entreprise", 
         "leadership", "médias", "journalisme", "sécurité alimentaire", "santé", "océan", "vélo", "recyclage", "déchets",
-        "stage"
+        "stage",
 
     ]))
     

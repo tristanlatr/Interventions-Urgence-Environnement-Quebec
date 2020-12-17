@@ -6,11 +6,12 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from geopy.geocoders import Nominatim, Bing, Photon
+from geopy.geocoders import Nominatim, Bing
 from ordered_set import OrderedSet
 import time
 import os
 import logging
+import geopy
 
 loger = logging.getLogger(__name__)
 
@@ -49,47 +50,63 @@ class AddKeywordMatchesPipeline(object):
 
 class AddGeocodePipeline(object):
     """
-    Fill the 'latitude' and 'longitude' of all `Urgence` objects. 
+    Fill the 'latitude' , 'longitude' and other gocoder infos objects. 
+
+    Look for env variable 'BING_MAPS_KEYS' to init bing maps coder. 
+    Add Nominatim coder as a backup. 
     """
 
-    def _geocode(self, lieu, municipalite, region, coder):
-        time.sleep(1)
-        address_str = "{}, {} {}, Québec, Canada".format(lieu, municipalite, region)
-        loger.info("Geocoding {} with coder {}".format(address_str, coder.__class__.__name__))
-        resp = coder.geocode(address_str,
-            exactly_one=True)
-
-        if resp:
-            return (resp.latitude, resp.longitude, resp.raw)
-        else:
-            loger.warning("Cannot find exact match for address {}".format(address_str))
-            time.sleep(1)
-            resp = coder.geocode(address_str,
-            exactly_one=False)
-            if resp:
-                return ('No exact match', 'No exact match', resp.raw)
-            else:
-                loger.error("Geocoder {} cannot find any places for address {}".format(
-                    coder.__class__.__name__, address_str))
-                return None
-
-
-    def geocode(self, lieu, municipalite, region):
-        """
-        Look for env variable 'BING_MAPS_KEYS' to init bing maps coder
-        """
-
-        coders = []
+    def __init__(self, *args, **kw):
+        super().__init__(*args, **kw)
+        self.coders = []
         
         bing_key = os.environ.get('BING_MAPS_KEYS', None)
         if bing_key:
-            coders.append( Bing(api_key=bing_key, timeout=10) )
+            self.coders.append( Bing(api_key=bing_key, timeout=10) )
+        self.coders.append( Nominatim(user_agent="InterventionsUrgenceEnvironnementQuebec", 
+            timeout=10) )
 
+    def _geocode(self, lieu, municipalite, region, coder, retry=1):
+        time.sleep(1)
+        address_str = "{}, {} {}, Québec, Canada".format(lieu, municipalite, region)
+        loger.info("Geocoding {} with coder {}".format(address_str, coder.__class__.__name__))
+
+        try:
+
+            resp = coder.geocode(address_str,
+                exactly_one=True)
+            if resp:
+                return (resp.latitude, resp.longitude, resp.raw)
+            else:
+                loger.warning("Cannot find exact match for address {}".format(address_str))
+                time.sleep(1)
+                resp = coder.geocode(address_str,
+                exactly_one=False)
+                if resp:
+                    return ('No exact match', 'No exact match', resp.raw)
+                else:
+                    loger.error("Geocoder {} cannot find any places for address {}".format(
+                        coder.__class__.__name__, address_str))
+                    return None
+        
+        except geopy.exc.GeocoderQuotaExceeded:
+            return None
+        except geopy.exc.GeopyError:
+            if retry > 0:
+                time.sleep(2)
+                return self._geocode(lieu, municipalite, region, coder, retry=retry-1)
+            else:
+                return None
+
+        
+
+    def geocode(self, lieu, municipalite, region):
+        """Resolve latitude, longitude and geocoder_infos or put 'Error'
+        """
         result = None
-
-        for i, c in enumerate(coders):
+        for _, coder in enumerate(self.coders):
             
-            result = self._geocode(lieu, municipalite, region, coder=c)
+            result = self._geocode(lieu, municipalite, region, coder=coder)
             if result:
                 return result
 

@@ -1,0 +1,2813 @@
+[
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301442544",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "24\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301442544",
+        "lieu": "Pr\u00e8s du 1975, Chemin Saint-Fran\u00e7ois",
+        "municipalite": "Dorval",
+        "region": "Montr\u00e9al",
+        "matiere": "Diesel - 1500 litres",
+        "millieu": "Infrastructure de surface - Chauss\u00e9eInfrastructure sous-terraine - \u00c9gout pluvialEau - Ruisseau Bertrand",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de Dorval Service de police de la ville de Montr\u00e9alVille de Montr\u00e9alVille de Dorval",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.474038282429326,
+                -73.78650062677694,
+                45.48176371757068,
+                -73.77181137322306
+            ],
+            "name": "1975 Chemin Saint-Fran\u00e7ois, Montreal, QC H9P, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.477901,
+                    -73.779156
+                ]
+            },
+            "address": {
+                "addressLine": "1975 Chemin Saint-Fran\u00e7ois",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Montreal",
+                "countryRegion": "Canada",
+                "formattedAddress": "1975 Chemin Saint-Fran\u00e7ois, Montreal, QC H9P, Canada",
+                "locality": "Montreal",
+                "postalCode": "H9P"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.477901,
+                        -73.779156
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.4775199,
+                        -73.778788
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "diesel",
+            "eau",
+            "infrastructure",
+            "surface"
+        ],
+        "latitude": 45.477901,
+        "longitude": -73.779156
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301442686",
+        "evenement": "\u00c9mission de fum\u00e9e noire",
+        "date_signalement": "24\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301442686",
+        "lieu": "1936 rue Decoste",
+        "municipalite": "Sept-\u00celes",
+        "region": "C\u00f4te-Nord",
+        "matiere": "Huile de chauffage - Ind\u00e9termin\u00e9e",
+        "millieu": "Air - Atmosph\u00e8re",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Probl\u00e8me de combustion de l'huile de chauffage",
+        "autre_organismes_public_implique": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                50.86313786226331,
+                -65.82516118821479,
+                50.87086329740466,
+                -65.80884149733208
+            ],
+            "name": "C\u00f4te-Nord, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    50.867000579833984,
+                    -65.81700134277344
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "C\u00f4te-Nord, QC"
+            },
+            "confidence": "Medium",
+            "entityType": "GeoRegion",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        50.867000579833984,
+                        -65.81700134277344
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "huile",
+            "air"
+        ],
+        "latitude": 50.867000579833984,
+        "longitude": -65.81700134277344
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301442683",
+        "evenement": "Travaux en milieu hydrique",
+        "date_signalement": "24\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301442683",
+        "lieu": "Face au 54, mont\u00e9e Meunier",
+        "municipalite": "Ripon",
+        "region": "Outaouais",
+        "millieu": "Eau",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.828753182429324,
+                -75.10437529069631,
+                45.83647861757068,
+                -75.0895927093037
+            ],
+            "name": "54 Mont\u00e9e Meunier, Ripon, QC J0V, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.8326159,
+                    -75.096984
+                ]
+            },
+            "address": {
+                "addressLine": "54 Mont\u00e9e Meunier",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Papineau Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "54 Mont\u00e9e Meunier, Ripon, QC J0V, Canada",
+                "locality": "Ripon",
+                "postalCode": "J0V"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.8326159,
+                        -75.096984
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.8328697,
+                        -75.0973459
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "hydrique",
+            "eau",
+            "travaux"
+        ],
+        "latitude": 45.8326159,
+        "longitude": -75.096984,
+        "matiere": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301443520",
+        "evenement": "D\u00e9versement d'eaux de proc\u00e9d\u00e9",
+        "date_signalement": "28\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301443520",
+        "lieu": "1955, boulevard Mellon",
+        "municipalite": "Saguenay - Jonqui\u00e8re",
+        "region": "Saguenay\u2014Lac-Saint-Jean",
+        "matiere": "Eaux de proc\u00e9d\u00e9 d'\u00e9puration - 200 litres",
+        "millieu": "Sol",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                48.42249163530705,
+                -71.18928031251983,
+                48.4302170704484,
+                -71.17375880251475
+            ],
+            "name": "1955 Boulevard Mellon, Jonqui\u00e8re, Saguenay, QC G7S 0L4, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    48.42635435287772,
+                    -71.18151955751729
+                ]
+            },
+            "address": {
+                "addressLine": "1955 Boulevard Mellon",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Le Saguenay-et-son-Fjord",
+                "countryRegion": "Canada",
+                "formattedAddress": "1955 Boulevard Mellon, Jonqui\u00e8re, Saguenay, QC G7S 0L4, Canada",
+                "locality": "Saguenay",
+                "postalCode": "G7S 0L4"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        48.42635435287772,
+                        -71.18151955751729
+                    ],
+                    "calculationMethod": "InterpolationOffset",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        48.42634400003093,
+                        -71.18158549960594
+                    ],
+                    "calculationMethod": "Interpolation",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "eaux de proc\u00e9d\u00e9",
+            "eau",
+            "sol"
+        ],
+        "latitude": 48.42635435287772,
+        "longitude": -71.18151955751729
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301443377",
+        "evenement": "Incendie impliquant des mati\u00e8res r\u00e9siduelles",
+        "date_signalement": "28\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301443377",
+        "lieu": "Pr\u00e8s du 445, route Tach\u00e9 est",
+        "municipalite": "Montmagny",
+        "region": "Chaudi\u00e8re-Appalaches",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Signalement non fond\u00e9, aucun indice de br\u00fblage.",
+        "autre_organismes_public_implique": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.98605988242932,
+                -70.5357814936008,
+                46.993785317570676,
+                -70.52068190639922
+            ],
+            "name": "445 Boulevard Tach\u00e9 E, Montmagny, QC G5V, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.9899226,
+                    -70.5282317
+                ]
+            },
+            "address": {
+                "addressLine": "445 Boulevard Tach\u00e9 E",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Montmagny Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "445 Boulevard Tach\u00e9 E, Montmagny, QC G5V, Canada",
+                "locality": "Montmagny",
+                "postalCode": "G5V"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.9899226,
+                        -70.5282317
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.9896861,
+                        -70.5280901
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "mati\u00e8res r\u00e9siduelles"
+        ],
+        "latitude": 46.9899226,
+        "longitude": -70.5282317,
+        "matiere": null,
+        "millieu": null
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301444246",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "30\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301444246",
+        "lieu": "Face au 1300, chemin de la Grande-Ligne",
+        "municipalite": "Stoneham-et-Tewkesbury",
+        "region": "Capitale-Nationale",
+        "matiere": "Huiles us\u00e9es - 1000 litres",
+        "millieu": "Infrastructure de surface - Chauss\u00e9e asphalt\u00e9e",
+        "autre_organismes_public_implique": "Service de l'environnement de Qu\u00e9becService incendie Stoneham-et-TewkesburyService travaux publics Stoneham-et-Tewkesbury",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.955297582429324,
+                -71.39740065244925,
+                46.96302301757068,
+                -71.38230974755075
+            ],
+            "name": "1300 Chemin de la Grande-Ligne, Stoneham-et-Tewkesbury, QC G3C 0Y1, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.9591603,
+                    -71.3898552
+                ]
+            },
+            "address": {
+                "addressLine": "1300 Chemin de la Grande-Ligne",
+                "adminDistrict": "QC",
+                "adminDistrict2": "La Jacques-Cartier Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "1300 Chemin de la Grande-Ligne, Stoneham-et-Tewkesbury, QC G3C 0Y1, Canada",
+                "locality": "Stoneham-et-Tewkesbury",
+                "postalCode": "G3C 0Y1"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.9591603,
+                        -71.3898552
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.9589635,
+                        -71.3901937
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "huile",
+            "infrastructure",
+            "surface",
+            "travaux"
+        ],
+        "latitude": 46.9591603,
+        "longitude": -71.3898552
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301444227",
+        "evenement": "Incendie impliquant des mati\u00e8res dangereuses",
+        "date_signalement": "31\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301444227",
+        "lieu": "1200, rue Garnier",
+        "municipalite": "Sainte-Catherine",
+        "region": "Mont\u00e9r\u00e9gie",
+        "matiere": "Batteries - Ind\u00e9termin\u00e9eEaux d'extinction - Ind\u00e9termin\u00e9e",
+        "millieu": "Infrastructures souterrainesAir - Atmosph\u00e8re",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de la municipalit\u00e9 de Sainte-Catherine",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.39733928242932,
+                -73.61008245099354,
+                45.405064717570674,
+                -73.59541314900646
+            ],
+            "name": "1200 Rue Garnier, Sainte-Catherine, QC J5C 1B4, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.401202,
+                    -73.6027478
+                ]
+            },
+            "address": {
+                "addressLine": "1200 Rue Garnier",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Roussillon Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "1200 Rue Garnier, Sainte-Catherine, QC J5C 1B4, Canada",
+                "locality": "Sainte-Catherine",
+                "postalCode": "J5C 1B4"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.401202,
+                        -73.6027478
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.401605,
+                        -73.601064
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "mati\u00e8res dangereuses",
+            "eau",
+            "air",
+            "infrastructure",
+            "souterraine"
+        ],
+        "latitude": 45.401202,
+        "longitude": -73.6027478
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301444275",
+        "evenement": "D\u00e9versement d'eaux de lixiviation",
+        "date_signalement": "31\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301444275",
+        "lieu": "451, rue Victoria",
+        "municipalite": "Thurso",
+        "region": "Outaouais",
+        "matiere": "Lixiviat - Ind\u00e9termin\u00e9e",
+        "millieu": "Infrastructure de surface - Chauss\u00e9e",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.59113158242933,
+                -75.26171973433625,
+                45.59885701757068,
+                -75.24699986566375
+            ],
+            "name": "451 Rue Victoria, Thurso, QC J0X 3B0, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.5949943,
+                    -75.2543598
+                ]
+            },
+            "address": {
+                "addressLine": "451 Rue Victoria",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Papineau Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "451 Rue Victoria, Thurso, QC J0X 3B0, Canada",
+                "locality": "Thurso",
+                "postalCode": "J0X 3B0"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.5949943,
+                        -75.2543598
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.5945766,
+                        -75.2542979
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "eau",
+            "infrastructure",
+            "surface"
+        ],
+        "latitude": 45.5949943,
+        "longitude": -75.2543598
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301437889",
+        "evenement": "D\u00e9p\u00f4t de neiges us\u00e9es",
+        "date_signalement": "3\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301437889",
+        "lieu": "476, boulevard Saint-Ren\u00e9 Est",
+        "municipalite": "Gatineau",
+        "region": "Outaouais",
+        "matiere": "Neiges us\u00e9es - Inconnue",
+        "millieu": "Sol - Foss\u00e9 de route",
+        "autre_organismes_public_implique": "Service des Travaux publics de la Ville de Gatineau",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.48864128242932,
+                -75.64425153067111,
+                45.49636671757067,
+                -75.62955846932888
+            ],
+            "name": "476 Boulevard Saint-Ren\u00e9 E, Du Moulin, Gatineau, QC J8P, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.492504,
+                    -75.636905
+                ]
+            },
+            "address": {
+                "addressLine": "476 Boulevard Saint-Ren\u00e9 E",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Gatineau",
+                "countryRegion": "Canada",
+                "formattedAddress": "476 Boulevard Saint-Ren\u00e9 E, Du Moulin, Gatineau, QC J8P, Canada",
+                "locality": "Gatineau",
+                "postalCode": "J8P"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.492504,
+                        -75.636905
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.4933562,
+                        -75.6370927
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "eau",
+            "sol",
+            "travaux"
+        ],
+        "latitude": 45.492504,
+        "longitude": -75.636905
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301438069",
+        "evenement": "Accident routier",
+        "date_signalement": "6\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301438069",
+        "lieu": "Route 101",
+        "municipalite": "Rouyn-Noranda (quartier Montbeillard)",
+        "region": "Abitibi-T\u00e9miscamingue",
+        "matiere": "Concentr\u00e9 de cuivre - 34 tonnes",
+        "millieu": "Sol - foss\u00e9 de la route",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                48.23970239667882,
+                -79.09437334681836,
+                48.247427831820175,
+                -79.07890737572644
+            ],
+            "name": "QC-101, Rouyn-Noranda, QC J0Z, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    48.2435651142495,
+                    -79.0866403612724
+                ]
+            },
+            "address": {
+                "addressLine": "QC-101",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Rouyn-Noranda",
+                "countryRegion": "Canada",
+                "formattedAddress": "QC-101, Rouyn-Noranda, QC J0Z, Canada",
+                "locality": "Rouyn-Noranda",
+                "postalCode": "J0Z"
+            },
+            "confidence": "Low",
+            "entityType": "RoadBlock",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        48.2435651142495,
+                        -79.0866403612724
+                    ],
+                    "calculationMethod": "Interpolation",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "keywords_matched": [
+            "sol"
+        ],
+        "latitude": 48.2435651142495,
+        "longitude": -79.0866403612724
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301438759",
+        "evenement": "D\u00e9versement de mati\u00e8res dangereuses",
+        "date_signalement": "7\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301438759",
+        "lieu": "Autoroute 20 - Direction Est",
+        "municipalite": "Vaudreuil-Dorion",
+        "region": "Mont\u00e9r\u00e9gie",
+        "matiere": "Formald\u00e9hyde - Inf\u00e9rieure \u00e0 20 litres",
+        "millieu": "Sol - Route",
+        "autre_organismes_public_implique": "Minist\u00e8re des transports du Qu\u00e9becService de s\u00e9curit\u00e9 incendie de Vaudreuil-DorionS\u00fbret\u00e9 du Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.35402903717346,
+                -73.15496624974759,
+                45.41196980315857,
+                -73.0450306984946
+            ],
+            "name": "Mont\u00e9r\u00e9gie, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.382999420166016,
+                    -73.0999984741211
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Mont\u00e9r\u00e9gie, QC",
+                "locality": "Mont\u00e9r\u00e9gie"
+            },
+            "confidence": "Medium",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.382999420166016,
+                        -73.0999984741211
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "mati\u00e8res dangereuses",
+            "sol",
+            "minist\u00e8re des transports",
+            "s\u00fbret\u00e9 du qu\u00e9bec"
+        ],
+        "latitude": 45.382999420166016,
+        "longitude": -73.0999984741211
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301439125",
+        "evenement": "Accident routier",
+        "date_signalement": "8\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301439125",
+        "lieu": "2575, rang Desharnais",
+        "municipalite": "Chesterville",
+        "region": "Centre-du-Qu\u00e9bec",
+        "matiere": "Mati\u00e8res r\u00e9siduelles fertilisantes (boues municipales) - 15 tonnes",
+        "millieu": "Sol - Champ",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.996649382429325,
+                -71.83360008486264,
+                46.00437481757068,
+                -71.81877271513736
+            ],
+            "name": "2575 Rang Desharnais, Chesterville, QC G0P 1J0, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.0005121,
+                    -71.8261864
+                ]
+            },
+            "address": {
+                "addressLine": "2575 Rang Desharnais",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Arthabaska Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "2575 Rang Desharnais, Chesterville, QC G0P 1J0, Canada",
+                "locality": "Chesterville",
+                "postalCode": "G0P 1J0"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.0005121,
+                        -71.8261864
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.9999331,
+                        -71.8267012
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "mati\u00e8res r\u00e9siduelles",
+            "sol"
+        ],
+        "latitude": 46.0005121,
+        "longitude": -71.8261864
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301439389",
+        "evenement": "Accident routier",
+        "date_signalement": "8\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301439389",
+        "lieu": "Intersection route 170 et route 169",
+        "municipalite": "Saint-Bruno",
+        "region": "Saguenay\u2014Lac-Saint-Jean",
+        "matiere": "Eaux us\u00e9es septiques - Ind\u00e9termin\u00e9eDiesel - 385 litres",
+        "millieu": "Sol",
+        "autre_organismes_public_implique": "S\u00fbret\u00e9 du Qu\u00e9becMinist\u00e8re du Transport du Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                49.86283650117932,
+                -71.75798965742574,
+                49.87056193632068,
+                -71.74201034257426
+            ],
+            "name": "Saguenay\u2013Lac-Saint-Jean, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    49.86669921875,
+                    -71.75
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Saguenay\u2013Lac-Saint-Jean, QC"
+            },
+            "confidence": "Medium",
+            "entityType": "GeoRegion",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.86669921875,
+                        -71.75
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "eaux us\u00e9es",
+            "diesel",
+            "eau",
+            "sol",
+            "s\u00fbret\u00e9 du qu\u00e9bec"
+        ],
+        "latitude": 49.86669921875,
+        "longitude": -71.75
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301439322",
+        "evenement": "Fuite de gaz",
+        "date_signalement": "10\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301439322",
+        "lieu": "4445, route Marie-Victorin",
+        "municipalite": "Varennes",
+        "region": "Mont\u00e9r\u00e9gie",
+        "matiere": "M\u00e9thane - Ind\u00e9termin\u00e9e",
+        "millieu": "Air",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de la Ville de VarennesEnglobeMinist\u00e8re des ressources naturellesCentre d'expertise en analyse environnementale du Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.72950648242932,
+                -73.41346764630865,
+                45.737231917570675,
+                -73.39871135369134
+            ],
+            "name": "4445 Rte Marie-Victorin, Varennes, QC J3X, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.7333692,
+                    -73.4060895
+                ]
+            },
+            "address": {
+                "addressLine": "4445 Rte Marie-Victorin",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Marguerite-D'Youville Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "4445 Rte Marie-Victorin, Varennes, QC J3X, Canada",
+                "locality": "Varennes",
+                "postalCode": "J3X"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.7333692,
+                        -73.4060895
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.7325984,
+                        -73.407332
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "gaz",
+            "fuite",
+            "air",
+            "nature"
+        ],
+        "latitude": 45.7333692,
+        "longitude": -73.4060895
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301439626",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "12\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301439626",
+        "lieu": "1325, place H\u00f4tel-de-Ville",
+        "municipalite": "Trois-Rivi\u00e8res",
+        "region": "Mauricie",
+        "matiere": "Huile hydraulique - 30 litres",
+        "millieu": "Surface enneig\u00e9e",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.339082282429324,
+                -72.55089398173345,
+                46.34680771757068,
+                -72.53597401826656
+            ],
+            "name": "1325 Place de l'h\u00f4tel-de-ville, Downtown Trois-Rivi\u00e8res, Trois-Rivi\u00e8res, QC G9A, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.342945,
+                    -72.543434
+                ]
+            },
+            "address": {
+                "addressLine": "1325 Place de l'h\u00f4tel-de-ville",
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "1325 Place de l'h\u00f4tel-de-ville, Downtown Trois-Rivi\u00e8res, Trois-Rivi\u00e8res, QC G9A, Canada",
+                "locality": "Trois-Rivi\u00e8res",
+                "postalCode": "G9A"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.342945,
+                        -72.543434
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.3427152,
+                        -72.5432108
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "huile",
+            "rivi\u00e8re",
+            "surface"
+        ],
+        "latitude": 46.342945,
+        "longitude": -72.543434
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301440562",
+        "evenement": "Incendie",
+        "date_signalement": "15\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301440562",
+        "lieu": "226, chemin du Lac Nord",
+        "municipalite": "Saint-Mathieu-de-Rioux",
+        "region": "Bas-Saint-Laurent",
+        "matiere": "Eaux d'extinction - Ind\u00e9termin\u00e9e",
+        "millieu": "EauSol",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de St-Mathieu-de-Rioux",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                48.15086108242932,
+                -69.04182568866638,
+                48.158586517570676,
+                -69.02638651133363
+            ],
+            "name": "226 Chemin du Lac N, Saint-Mathieu-de-Rioux, QC G0L 3T0, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    48.1547238,
+                    -69.0341061
+                ]
+            },
+            "address": {
+                "addressLine": "226 Chemin du Lac N",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Les Basques RCM",
+                "countryRegion": "Canada",
+                "formattedAddress": "226 Chemin du Lac N, Saint-Mathieu-de-Rioux, QC G0L 3T0, Canada",
+                "locality": "Saint-Mathieu-de-Rioux",
+                "postalCode": "G0L 3T0"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        48.1547238,
+                        -69.0341061
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        48.1549228,
+                        -69.0343614
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "keywords_matched": [
+            "eau",
+            "sol"
+        ],
+        "latitude": 48.1547238,
+        "longitude": -69.0341061
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301444201",
+        "evenement": "Motoneiges coul\u00e9es dans un lac",
+        "date_signalement": "3\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301444201",
+        "lieu": "Sur le Lac Magog derri\u00e8re le 198, rue Bernard",
+        "municipalite": "Magog",
+        "region": "Estrie",
+        "matiere": "Motoneiges - 6",
+        "millieu": "Eau - Lac Magog",
+        "autre_organismes_public_implique": "Ville de Magog",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Remorquage des motoneiges pris en charge",
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.45258555572815,
+                -71.72297909623997,
+                45.51052632171326,
+                -71.6128515922366
+            ],
+            "name": "Estrie, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.4815559387207,
+                    -71.66791534423828
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Estrie, QC",
+                "locality": "Estrie"
+            },
+            "confidence": "Medium",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.4815559387207,
+                        -71.66791534423828
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "eau"
+        ],
+        "latitude": 45.4815559387207,
+        "longitude": -71.66791534423828
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301445423",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "6\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301445423",
+        "lieu": "Place Kubota",
+        "municipalite": "Drummondville",
+        "region": "Centre-du-Qu\u00e9bec",
+        "matiere": "Produits p\u00e9troliers - Ind\u00e9termin\u00e9e",
+        "millieu": "Infrastructure souterraine - R\u00e9seau d'\u00e9gout pluvialEau - Foss\u00e9 de drainage",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.279138228474245,
+                -72.07445315913034,
+                46.2868636636156,
+                -72.05954952641653
+            ],
+            "name": "Centre-du-Qu\u00e9bec, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.28300094604492,
+                    -72.06700134277344
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Centre-du-Qu\u00e9bec, QC"
+            },
+            "confidence": "Medium",
+            "entityType": "GeoRegion",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.28300094604492,
+                        -72.06700134277344
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "eau",
+            "infrastructure",
+            "souterraine"
+        ],
+        "latitude": 46.28300094604492,
+        "longitude": -72.06700134277344
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301445896",
+        "evenement": "Incendie impliquant des mati\u00e8res dangereuses",
+        "date_signalement": "7\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301445896",
+        "lieu": "124, rue de Hambourg",
+        "municipalite": "Saint-Augustin-de-Desmaures",
+        "region": "Capitale-Nationale",
+        "matiere": "Produits chimiques divers - inconnueEaux d'extinction - inconnue",
+        "millieu": "Air - atmosph\u00e8reNeigeSol",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de la ville de Qu\u00e9becService de police de la ville de Qu\u00e9becService des Travaux publics de Saint-Augustin-de-DesmauresService de la S\u00e9curit\u00e9 civile de la ville de Qu\u00e9becService de l'environnement de la ville de Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Le dossier a \u00e9t\u00e9 transmis au service industriel du Centre de contr\u00f4le environnemental de la direction r\u00e9gionale concern\u00e9e pour suivi appropri\u00e9.",
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.75170528242932,
+                -71.45500990151997,
+                46.75943071757067,
+                -71.43997609848002
+            ],
+            "name": "124 Rue de Hambourg, Saint-Augustin-de-Desmaures, QC G3A 0B3, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.755568,
+                    -71.447493
+                ]
+            },
+            "address": {
+                "addressLine": "124 Rue de Hambourg",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Capitale-Nationale",
+                "countryRegion": "Canada",
+                "formattedAddress": "124 Rue de Hambourg, Saint-Augustin-de-Desmaures, QC G3A 0B3, Canada",
+                "locality": "Saint-Augustin-de-Desmaures",
+                "postalCode": "G3A 0B3"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.755568,
+                        -71.447493
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.7553371,
+                        -71.4478167
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "mati\u00e8res dangereuses",
+            "eau",
+            "sol",
+            "air",
+            "suivi",
+            "travaux"
+        ],
+        "latitude": 46.755568,
+        "longitude": -71.447493
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301447558",
+        "evenement": "Accident routier",
+        "date_signalement": "17\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301447558",
+        "lieu": "Secteur Lac long - 48 deg 55 min 13.6 sec                          71 deg 33 min 25.5 sec",
+        "municipalite": "TNO Passes Dangereuses",
+        "region": "Saguenay\u2014Lac-Saint-Jean",
+        "matiere": "Diesel - 500 litres",
+        "millieu": "Sol",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                49.86283650117932,
+                -71.75798965742574,
+                49.87056193632068,
+                -71.74201034257426
+            ],
+            "name": "Saguenay\u2013Lac-Saint-Jean, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    49.86669921875,
+                    -71.75
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Saguenay\u2013Lac-Saint-Jean, QC"
+            },
+            "confidence": "Medium",
+            "entityType": "GeoRegion",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.86669921875,
+                        -71.75
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "diesel",
+            "sol"
+        ],
+        "latitude": 49.86669921875,
+        "longitude": -71.75
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301447783",
+        "evenement": "Accident routier",
+        "date_signalement": "18\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301447783",
+        "lieu": "Route 117, km 595",
+        "municipalite": "Rouyn-Noranda (secteur McWatters)",
+        "region": "Abitibi-T\u00e9miscamingue",
+        "matiere": "Hydroxyde de sodium - 60 litres",
+        "millieu": "Sol - Accotement de la route",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de Rouyn-NorandaS\u00fbret\u00e9 du Qu\u00e9becMinist\u00e8re des Transports",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                47.70152282714844,
+                -79.5182113647461,
+                48.57526397705078,
+                -78.21939849853516
+            ],
+            "name": "Rouyn-Noranda, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    48.23990249633789,
+                    -79.02262878417969
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "adminDistrict2": "Rouyn-Noranda",
+                "countryRegion": "Canada",
+                "formattedAddress": "Rouyn-Noranda, QC",
+                "locality": "Rouyn-Noranda"
+            },
+            "confidence": "Medium",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        48.23990249633789,
+                        -79.02262878417969
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "sol",
+            "s\u00fbret\u00e9 du qu\u00e9bec"
+        ],
+        "latitude": 48.23990249633789,
+        "longitude": -79.02262878417969
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301448025",
+        "evenement": "Accident routier",
+        "date_signalement": "19\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301448025",
+        "lieu": "Autoroute 15 Sud, Km 46",
+        "municipalite": "La Prairie",
+        "region": "Mont\u00e9r\u00e9gie",
+        "matiere": "Diesel - Ind\u00e9termin\u00e9e",
+        "millieu": "Infrastructure de surface - Route",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.35402903717346,
+                -73.15496624974759,
+                45.41196980315857,
+                -73.0450306984946
+            ],
+            "name": "Mont\u00e9r\u00e9gie, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.382999420166016,
+                    -73.0999984741211
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Mont\u00e9r\u00e9gie, QC",
+                "locality": "Mont\u00e9r\u00e9gie"
+            },
+            "confidence": "Medium",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.382999420166016,
+                        -73.0999984741211
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "diesel",
+            "air",
+            "infrastructure",
+            "surface"
+        ],
+        "latitude": 45.382999420166016,
+        "longitude": -73.0999984741211
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301448232",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "20\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301448232",
+        "lieu": "850, 7ieme Avenue",
+        "municipalite": "Shawinigan",
+        "region": "Mauricie",
+        "matiere": "Diesel - 100 litres",
+        "millieu": "Infrastructure souterraine - \u00c9gout Infrastructure de surface - D\u00e9barcad\u00e8re",
+        "autre_organismes_public_implique": "Service incendie de ShawiniganVille de Shawinigan",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.60941428242932,
+                -72.7043807311928,
+                46.61713971757067,
+                -72.68938646880721
+            ],
+            "name": "850 7e Avenue, Shawinigan, QC G9T, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.613277,
+                    -72.6968836
+                ]
+            },
+            "address": {
+                "addressLine": "850 7e Avenue",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Shawinigan",
+                "countryRegion": "Canada",
+                "formattedAddress": "850 7e Avenue, Shawinigan, QC G9T, Canada",
+                "locality": "Shawinigan",
+                "postalCode": "G9T"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.613277,
+                        -72.6968836
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.6129313,
+                        -72.6963826
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "diesel",
+            "infrastructure",
+            "souterraine",
+            "surface"
+        ],
+        "latitude": 46.613277,
+        "longitude": -72.6968836
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301449214",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "25\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301449214",
+        "lieu": "111, rue Jean Proulx",
+        "municipalite": "Gatineau",
+        "region": "Outaouais",
+        "matiere": "Huile us\u00e9e - ind\u00e9termin\u00e9e",
+        "millieu": "Sol - asphalte",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.46121998242933,
+                -75.74231555677258,
+                45.46894541757068,
+                -75.72762964322743
+            ],
+            "name": "111 Rue Jean-Proulx, Gatineau, QC J8Z 1T4, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.4650827,
+                    -75.7349726
+                ]
+            },
+            "address": {
+                "addressLine": "111 Rue Jean-Proulx",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Gatineau",
+                "countryRegion": "Canada",
+                "formattedAddress": "111 Rue Jean-Proulx, Gatineau, QC J8Z 1T4, Canada",
+                "locality": "Gatineau",
+                "postalCode": "J8Z 1T4"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.4650827,
+                        -75.7349726
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.465715,
+                        -75.7338137
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "huile",
+            "eau",
+            "sol"
+        ],
+        "latitude": 45.4650827,
+        "longitude": -75.7349726
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301450071",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "25\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301450071",
+        "lieu": "70, rue de la Fonderie",
+        "municipalite": "Trois-Rivi\u00e8res",
+        "region": "Mauricie",
+        "matiere": "Diesel - 20 litres",
+        "millieu": "Sol",
+        "autre_organismes_public_implique": "Service incendie de Trois-Rivi\u00e8res",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.37230814869777,
+                -72.5503128102248,
+                46.38003358383912,
+                -72.5353837724573
+            ],
+            "name": "70 Rue de la Fonderie, Saint-Patrick, Trois-Rivi\u00e8res, QC G8T 2E9, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.376170866268446,
+                    -72.54284829134104
+                ]
+            },
+            "address": {
+                "addressLine": "70 Rue de la Fonderie",
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "70 Rue de la Fonderie, Saint-Patrick, Trois-Rivi\u00e8res, QC G8T 2E9, Canada",
+                "locality": "Trois-Rivi\u00e8res",
+                "postalCode": "G8T 2E9"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.376170866268446,
+                        -72.54284829134104
+                    ],
+                    "calculationMethod": "InterpolationOffset",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.376137664090955,
+                        -72.5428043381313
+                    ],
+                    "calculationMethod": "Interpolation",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "diesel",
+            "rivi\u00e8re",
+            "sol"
+        ],
+        "latitude": 46.376170866268446,
+        "longitude": -72.54284829134104
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301449539",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "26\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301449539",
+        "lieu": "Autoroute 50 Ouest - Sortie Masson-Angers",
+        "municipalite": "Gatineau (secteur Masson-Angers)",
+        "region": "Outaouais",
+        "matiere": "Diesel-50 litres",
+        "millieu": "Infrastructure de surface - chauss\u00e9e",
+        "autre_organismes_public_implique": "S\u00fbret\u00e9 du Qu\u00e9becMinist\u00e8re des Transports du Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.54434361177503,
+                -75.4072180032086,
+                45.55206904691638,
+                -75.39251039034609
+            ],
+            "name": "Masson-Angers, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.5482063293457,
+                    -75.39986419677734
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "adminDistrict2": "Gatineau",
+                "countryRegion": "Canada",
+                "formattedAddress": "Masson-Angers, QC",
+                "locality": "Gatineau"
+            },
+            "confidence": "Medium",
+            "entityType": "Neighborhood",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.5482063293457,
+                        -75.39986419677734
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous",
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "diesel",
+            "eau",
+            "infrastructure",
+            "surface",
+            "minist\u00e8re des transports",
+            "s\u00fbret\u00e9 du qu\u00e9bec"
+        ],
+        "latitude": 45.5482063293457,
+        "longitude": -75.39986419677734
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301449517",
+        "evenement": "Br\u00fblage de mati\u00e8res r\u00e9siduelles",
+        "date_signalement": "26\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301449517",
+        "lieu": "35, route de la Rivi\u00e8re",
+        "municipalite": "Municipalit\u00e9 de La Martre",
+        "region": "Gasp\u00e9sie\u2014\u00celes-de-la-Madeleine",
+        "matiere": "Mati\u00e8res r\u00e9siduelles - Ind\u00e9termin\u00e9e",
+        "millieu": "Sol Air - atmosph\u00e8re",
+        "autre_organismes_public_implique": "S\u00e9curit\u00e9 publique, s\u00e9curit\u00e9 civile et service incendie de la MRC de la Haute-Gasp\u00e9sie",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                49.19194378242933,
+                -66.17479316057626,
+                49.19966921757068,
+                -66.15903163942374
+            ],
+            "name": "35 Rte de la Rivi\u00e8re, La Martre, QC G0E, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    49.1958065,
+                    -66.1669124
+                ]
+            },
+            "address": {
+                "addressLine": "35 Rte de la Rivi\u00e8re",
+                "adminDistrict": "QC",
+                "adminDistrict2": "La Haute-Gasp\u00e9sie Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "35 Rte de la Rivi\u00e8re, La Martre, QC G0E, Canada",
+                "locality": "La Martre",
+                "postalCode": "G0E"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.1958065,
+                        -66.1669124
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        49.1964653,
+                        -66.1675652
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "mati\u00e8res r\u00e9siduelles",
+            "rivi\u00e8re",
+            "sol",
+            "air"
+        ],
+        "latitude": 49.1958065,
+        "longitude": -66.1669124
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301450130",
+        "evenement": "Bris d'\u00e9quipement",
+        "date_signalement": "27\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301450130",
+        "lieu": "4685, Boulevard Portland",
+        "municipalite": "Sherbrooke",
+        "region": "Estrie",
+        "matiere": "Huile hydraulique - 80 litres",
+        "millieu": "Infrastructure de surface",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.39927203265773,
+                -71.96304810192417,
+                45.40699746779908,
+                -71.94837829816284
+            ],
+            "name": "Boulevard Portland, Jacques-Cartier, Sherbrooke, QC J1L, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.4031347502284,
+                    -71.9557132000435
+                ]
+            },
+            "address": {
+                "addressLine": "Boulevard Portland",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Sherbrooke",
+                "countryRegion": "Canada",
+                "formattedAddress": "Boulevard Portland, Jacques-Cartier, Sherbrooke, QC J1L, Canada",
+                "locality": "Sherbrooke",
+                "postalCode": "J1L"
+            },
+            "confidence": "Low",
+            "entityType": "RoadBlock",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.4031347502284,
+                        -71.9557132000435
+                    ],
+                    "calculationMethod": "Interpolation",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous",
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "huile",
+            "infrastructure",
+            "surface"
+        ],
+        "latitude": 45.4031347502284,
+        "longitude": -71.9557132000435
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301446547",
+        "evenement": "Incendie",
+        "date_signalement": "28\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "2",
+        "num_dossier": "301446547",
+        "lieu": "142, rue Saint-Damien",
+        "municipalite": "Drummondville",
+        "region": "Centre-du-Qu\u00e9bec",
+        "matiere": "Pneu - Ind\u00e9termin\u00e9e",
+        "millieu": "Air - Atmosph\u00e8re",
+        "autre_organismes_public_implique": "Services de s\u00e9curit\u00e9 incendie de DrummondvilleDirection de la sant\u00e9 publiqueService de la s\u00e9curit\u00e9 civile",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Le laboratoire mobile TAGA (analyseur de gaz atmosph\u00e9rique) a \u00e9t\u00e9 mobilis\u00e9.",
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.86871308242932,
+                -72.49090950255538,
+                45.876438517570676,
+                -72.4761162974446
+            ],
+            "name": "142 Rue Saint-Damien, Drummondville, QC J2B 5R9, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.8725758,
+                    -72.4835129
+                ]
+            },
+            "address": {
+                "addressLine": "142 Rue Saint-Damien",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Drummond Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "142 Rue Saint-Damien, Drummondville, QC J2B 5R9, Canada",
+                "locality": "Drummondville",
+                "postalCode": "J2B 5R9"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.8725758,
+                        -72.4835129
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.8726584,
+                        -72.4836587
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "gaz",
+            "air",
+            "sant\u00e9"
+        ],
+        "latitude": 45.8725758,
+        "longitude": -72.4835129
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301450161",
+        "evenement": "D\u00e9p\u00f4t de neiges us\u00e9es",
+        "date_signalement": "29\u00a0f\u00e9vrier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301450161",
+        "lieu": "855 Rue Saint Maurice",
+        "municipalite": "Trois-Rivi\u00e8res",
+        "region": "Mauricie",
+        "matiere": "Neige us\u00e9e - Ind\u00e9termin\u00e9e",
+        "millieu": "Sol",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.380364282429326,
+                -72.5275156201969,
+                46.38808971757068,
+                -72.5125843798031
+            ],
+            "name": "855 Rue Saint-Maurice, Cap-de-la-Madeleine, Trois-Rivi\u00e8res, QC G8T, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.384227,
+                    -72.52005
+                ]
+            },
+            "address": {
+                "addressLine": "855 Rue Saint-Maurice",
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "855 Rue Saint-Maurice, Cap-de-la-Madeleine, Trois-Rivi\u00e8res, QC G8T, Canada",
+                "locality": "Trois-Rivi\u00e8res",
+                "postalCode": "G8T"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.384227,
+                        -72.52005
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.3843066,
+                        -72.5198583
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "rivi\u00e8re",
+            "sol"
+        ],
+        "latitude": 46.384227,
+        "longitude": -72.52005
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301440690",
+        "evenement": "D\u00e9versement de d\u00e9jections animales",
+        "date_signalement": "15\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301440690",
+        "lieu": "144, rang Sainte-Anne",
+        "municipalite": "Saint-Narcisse-de-Beaurivage",
+        "region": "Chaudi\u00e8re-Appalaches",
+        "matiere": "Eau contamin\u00e9e par d\u00e9jections animales - Ind\u00e9termin\u00e9e",
+        "millieu": "Sol enneig\u00e9Foss\u00e9",
+        "autre_organismes_public_implique": "Minist\u00e8re de l'Agriculture, des P\u00eacheries et de l'Alimentation du Qu\u00e9bec",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Suivi assur\u00e9 par le secteur agricole du Centre de contr\u00f4le environnemental du Qu\u00e9bec.",
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.46859248242932,
+                -71.3019453124148,
+                46.476317917570675,
+                -71.28698988758521
+            ],
+            "name": "144 Rang Sainte-Anne, Saint-Narcisse-de-Beaurivage, QC G0S, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.4724552,
+                    -71.2944676
+                ]
+            },
+            "address": {
+                "addressLine": "144 Rang Sainte-Anne",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Lotbini\u00e8re Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "144 Rang Sainte-Anne, Saint-Narcisse-de-Beaurivage, QC G0S, Canada",
+                "locality": "Saint-Narcisse-de-Beaurivage",
+                "postalCode": "G0S"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.4724552,
+                        -71.2944676
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.4734713,
+                        -71.2948141
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "eau",
+            "sol",
+            "suivi",
+            "animal",
+            "agriculture",
+            "alimentation"
+        ],
+        "latitude": 46.4724552,
+        "longitude": -71.2944676
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301440741",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "15\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301440741",
+        "lieu": "Chemin du Lac-du-Mardi",
+        "municipalite": "Saint-Z\u00e9non",
+        "region": "Lanaudi\u00e8re",
+        "matiere": "Diesel - 1800 litres",
+        "millieu": "Sol",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Suivi assur\u00e9 par le service r\u00e9gulier du Centre de contr\u00f4le environnemental du Qu\u00e9bec",
+        "autre_organismes_public_implique": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.73802790802307,
+                -73.88936265155057,
+                46.79596867400818,
+                -73.77663771466037
+            ],
+            "name": "Lanaudi\u00e8re, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.766998291015625,
+                    -73.83300018310547
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Lanaudi\u00e8re, QC",
+                "locality": "Lanaudi\u00e8re"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.766998291015625,
+                        -73.83300018310547
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "diesel",
+            "sol",
+            "suivi"
+        ],
+        "latitude": 46.766998291015625,
+        "longitude": -73.83300018310547
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301440597",
+        "evenement": "Incendie impliquant des produits p\u00e9troliers",
+        "date_signalement": "16\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301440597",
+        "lieu": "2269, 5e Rue",
+        "municipalite": "L\u00e9vis (secteur Saint-Romuald)",
+        "region": "Chaudi\u00e8re-Appalaches",
+        "matiere": "Produits p\u00e9troliers - Ind\u00e9termin\u00e9e",
+        "millieu": "SolEau - Cours d'eau intermittent",
+        "autre_organismes_public_implique": "Services de la s\u00e9curit\u00e9 incendie de L\u00e9vis Environnement - Ville de L\u00e9vis",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Le dossier est transf\u00e9r\u00e9 au service r\u00e9gulier du Centre de contr\u00f4le environnemental du Qu\u00e9bec pour suivi.",
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.45403132599182,
+                -70.67306461991554,
+                46.51197209197693,
+                -70.5609289103579
+            ],
+            "name": "Chaudi\u00e8re-Appalaches, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.483001708984375,
+                    -70.61699676513672
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Chaudi\u00e8re-Appalaches, QC",
+                "locality": "Chaudi\u00e8re-Appalaches"
+            },
+            "confidence": "Medium",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.483001708984375,
+                        -70.61699676513672
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "produits p\u00e9troliers",
+            "eau",
+            "sol",
+            "suivi"
+        ],
+        "latitude": 46.483001708984375,
+        "longitude": -70.61699676513672
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301441809",
+        "evenement": "D\u00e9versement de produits p\u00e9troliers",
+        "date_signalement": "17\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301441809",
+        "lieu": "21125 Boulevard des Acadiens",
+        "municipalite": "B\u00e9cancour",
+        "region": "Centre-du-Qu\u00e9bec",
+        "matiere": "Essence - Moins de 10 litres",
+        "millieu": "Infrastructures souterraines - Drain et puisard",
+        "autre_organismes_public_implique": "Service de s\u00e9curit\u00e9 incendie de B\u00e9cancourMinist\u00e8re de la s\u00e9curit\u00e9 civileCentre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.237954582429325,
+                -72.55658292153028,
+                46.24568001757068,
+                -72.54169047846973
+            ],
+            "name": "21125 Boulevard des Acadiens, Saint-Gr\u00e9goire, B\u00e9cancour, QC G9H 1M5, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.2418173,
+                    -72.5491367
+                ]
+            },
+            "address": {
+                "addressLine": "21125 Boulevard des Acadiens",
+                "adminDistrict": "QC",
+                "adminDistrict2": "B\u00e9cancour Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "21125 Boulevard des Acadiens, Saint-Gr\u00e9goire, B\u00e9cancour, QC G9H 1M5, Canada",
+                "locality": "B\u00e9cancour",
+                "postalCode": "G9H 1M5"
+            },
+            "confidence": "High",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.2418173,
+                        -72.5491367
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.2421098,
+                        -72.5495246
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "produits p\u00e9troliers",
+            "air",
+            "infrastructure",
+            "souterraine",
+            "sant\u00e9"
+        ],
+        "latitude": 46.2418173,
+        "longitude": -72.5491367
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301441367",
+        "evenement": "Incendie",
+        "date_signalement": "18\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301441367",
+        "lieu": "878 Rue Principale",
+        "municipalite": "\u00cele-aux-Noix",
+        "region": "Mont\u00e9r\u00e9gie",
+        "matiere": "Huiles us\u00e9esFum\u00e9eEaux d'extinction",
+        "millieu": "SolAirEau",
+        "autre_organismes_public_implique": "Service incendie de Saint-Paul-de-l'\u00cele-aux-NoixMTQ",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.11977338242932,
+                -73.29030008393038,
+                45.127498817570675,
+                -73.27570231606963
+            ],
+            "name": "878 Rue Principale, Saint-Paul-de-l'\u00cele-aux-Noix, QC J0J 1G0, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.1236361,
+                    -73.2830012
+                ]
+            },
+            "address": {
+                "addressLine": "878 Rue Principale",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Le Haut-Richelieu Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "878 Rue Principale, Saint-Paul-de-l'\u00cele-aux-Noix, QC J0J 1G0, Canada",
+                "locality": "Saint-Paul-de-l'\u00cele-aux-Noix",
+                "postalCode": "J0J 1G0"
+            },
+            "confidence": "Low",
+            "entityType": "Address",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.1236361,
+                        -73.2830012
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.1239261,
+                        -73.2836369
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Route"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "keywords_matched": [
+            "huile",
+            "eau",
+            "sol",
+            "air"
+        ],
+        "latitude": 45.1236361,
+        "longitude": -73.2830012
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301451880",
+        "evenement": "Gel de conduite",
+        "date_signalement": "22\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301451880",
+        "lieu": "1000, route 389",
+        "municipalite": "Fermont",
+        "region": "C\u00f4te-Nord",
+        "matiere": "Eaux d'effluent minier - 5 000m3",
+        "millieu": "Sol",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                50.86313786226331,
+                -65.82516118821479,
+                50.87086329740466,
+                -65.80884149733208
+            ],
+            "name": "C\u00f4te-Nord, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    50.867000579833984,
+                    -65.81700134277344
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "C\u00f4te-Nord, QC"
+            },
+            "confidence": "Medium",
+            "entityType": "GeoRegion",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        50.867000579833984,
+                        -65.81700134277344
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "eau",
+            "sol"
+        ],
+        "latitude": 50.867000579833984,
+        "longitude": -65.81700134277344
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301442551",
+        "evenement": "Signalement d'odeur",
+        "date_signalement": "23\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301442551",
+        "lieu": "Boulevard Raoul-Duchesne",
+        "municipalite": "B\u00e9cancour",
+        "region": "Centre-du-Qu\u00e9bec",
+        "matiere": "Hydrocarbure non identifi\u00e9 - Ind\u00e9termin\u00e9e",
+        "millieu": "Infrastructures souterraines - \u00c9gout sanitaire",
+        "autre_organismes_public_implique": "Soci\u00e9t\u00e9 du parc industriel et portuaire de B\u00e9cancour",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.35925257239543,
+                -72.42343485996882,
+                46.36697800753678,
+                -72.40850938971839
+            ],
+            "name": "Boulevard Raoul-Duchesne, B\u00e9cancour, QC G9H, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.3631152899661,
+                    -72.4159721248436
+                ]
+            },
+            "address": {
+                "addressLine": "Boulevard Raoul-Duchesne",
+                "adminDistrict": "QC",
+                "adminDistrict2": "B\u00e9cancour Regional County Municipality",
+                "countryRegion": "Canada",
+                "formattedAddress": "Boulevard Raoul-Duchesne, B\u00e9cancour, QC G9H, Canada",
+                "locality": "B\u00e9cancour",
+                "postalCode": "G9H"
+            },
+            "confidence": "Medium",
+            "entityType": "RoadBlock",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.3631152899661,
+                        -72.4159721248436
+                    ],
+                    "calculationMethod": "Interpolation",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "odeur",
+            "air",
+            "infrastructure",
+            "souterraine"
+        ],
+        "latitude": 46.3631152899661,
+        "longitude": -72.4159721248436
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301442368",
+        "evenement": "D\u00e9versement d'huile biod\u00e9gradable",
+        "date_signalement": "23\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301442368",
+        "lieu": "Rue Alexander Flemming",
+        "municipalite": "Montr\u00e9al",
+        "region": "Montr\u00e9al",
+        "matiere": "Huile hydraulique biod\u00e9gradable - 200 litres",
+        "millieu": "Sol",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autre_organismes_public_implique": null,
+        "autres_infos": null,
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                45.47435083309532,
+                -73.7695387678948,
+                45.482076268236675,
+                -73.75484943287279
+            ],
+            "name": "Rue Alexander-Fleming, St-Laurent, Montreal, QC H4S, Canada",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    45.478213550666,
+                    -73.7621941003838
+                ]
+            },
+            "address": {
+                "addressLine": "Rue Alexander-Fleming",
+                "adminDistrict": "QC",
+                "adminDistrict2": "Montreal",
+                "countryRegion": "Canada",
+                "formattedAddress": "Rue Alexander-Fleming, St-Laurent, Montreal, QC H4S, Canada",
+                "locality": "Montreal",
+                "postalCode": "H4S"
+            },
+            "confidence": "Medium",
+            "entityType": "RoadBlock",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        45.478213550666,
+                        -73.7621941003838
+                    ],
+                    "calculationMethod": "Interpolation",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "keywords_matched": [
+            "d\u00e9versement",
+            "huile",
+            "sol"
+        ],
+        "latitude": 45.478213550666,
+        "longitude": -73.7621941003838
+    },
+    {
+        "url": "http://www.environnement.gouv.qc.ca/ministere/urgence_environnement/urgence.asp?dossier=301442458",
+        "evenement": "Accident routier",
+        "date_signalement": "23\u00a0janvier\u00a02020",
+        "categorie": "1",
+        "num_dossier": "301442458",
+        "lieu": "Autoroute 20, direction Est, au km 268",
+        "municipalite": "Saint-Janvier-de-Joly",
+        "region": "Chaudi\u00e8re-Appalaches",
+        "matiere": "Diesel - Ind\u00e9termin\u00e9eHuile \u00e0 moteur - Ind\u00e9termin\u00e9e",
+        "millieu": "Infrastructure de surface - Asphalte et accotement",
+        "autre_organismes_public_implique": "Minist\u00e8re des Transport",
+        "etat": "Termin\u00e9 pour le service d'Urgence-Environnement",
+        "autres_infos": "Le dossier est transf\u00e9r\u00e9 au service r\u00e9gulier du Centre de contr\u00f4le environnemental du Qu\u00e9bec pour suivi.",
+        "geocoder_infos": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                46.45403132599182,
+                -70.67306461991554,
+                46.51197209197693,
+                -70.5609289103579
+            ],
+            "name": "Chaudi\u00e8re-Appalaches, QC",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    46.483001708984375,
+                    -70.61699676513672
+                ]
+            },
+            "address": {
+                "adminDistrict": "QC",
+                "countryRegion": "Canada",
+                "formattedAddress": "Chaudi\u00e8re-Appalaches, QC",
+                "locality": "Chaudi\u00e8re-Appalaches"
+            },
+            "confidence": "Medium",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        46.483001708984375,
+                        -70.61699676513672
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "keywords_matched": [
+            "huile",
+            "moteur",
+            "diesel",
+            "infrastructure",
+            "surface",
+            "suivi"
+        ],
+        "latitude": 46.483001708984375,
+        "longitude": -70.61699676513672
+    }
+]

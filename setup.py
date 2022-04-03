@@ -19,7 +19,14 @@ setup(
     version='2.0.dev',
     packages=find_packages(),
     install_requires=[
-          'pyasn1', 'scrapy-user-agents', 'scrapy', 'lxml', 'XlsxWriter', 'simplekml', 'geopy', 'ordered-set', 
+          'pyasn1==0.4.8', 
+          'scrapy-user-agents==0.1.1', 
+          'scrapy==2.5.1', 
+          'lxml==4.7.1', 
+          'XlsxWriter==3.0.2', 
+          'simplekml==1.3.6', 
+          'geopy==2.2.0', 
+          'ordered-set==4.1.0', 
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

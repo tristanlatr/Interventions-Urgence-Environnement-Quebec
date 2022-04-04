@@ -24,7 +24,9 @@ jobs:
         python-version: ${{ matrix.python-version }}
 
     - name: Install
-      run: python3 setup.py install
+      run: |
+        python3 -m pip install .
+        python3 -m pip uninstall aiohttp
 
     - name: Test with scrapy check
       run: scrapy check
